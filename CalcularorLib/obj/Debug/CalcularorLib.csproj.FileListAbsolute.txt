@@ -1,0 +1,6 @@
+C:\Users\Basil\source\repos\CalculatorApp\CalcularorLib\obj\Debug\CalcularorLib.csproj.AssemblyReference.cache
+C:\Users\Basil\source\repos\CalculatorApp\CalcularorLib\obj\Debug\CalcularorLib.csproj.CoreCompileInputs.cache
+C:\Users\Basil\source\repos\CalculatorApp\CalcularorLib\bin\Debug\CalcularorLib.dll
+C:\Users\Basil\source\repos\CalculatorApp\CalcularorLib\bin\Debug\CalcularorLib.pdb
+C:\Users\Basil\source\repos\CalculatorApp\CalcularorLib\obj\Debug\CalcularorLib.dll
+C:\Users\Basil\source\repos\CalculatorApp\CalcularorLib\obj\Debug\CalcularorLib.pdb
